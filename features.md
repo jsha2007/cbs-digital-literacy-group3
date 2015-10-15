@@ -8,7 +8,8 @@
   2. Easy Registration and Payment
     * Fast one-klick Registration
     * Overview of upcoming events the user is registered for
-    * Easy Payment for paid events
+    * Easy payment profile setup and add
+    * Partnership with PayPal to charge attendees for your event
   
   3. Social Networks
     * Allows the user to log into BIZNEZ with their Facebook or LinkedIn accounts
