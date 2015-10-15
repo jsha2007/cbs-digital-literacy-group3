@@ -3,10 +3,10 @@
   1. Search and Find Events
     * Displays events based on GPS location and interests
     * Gives the user the possibility to apply filters (as event topic, type, location, time, organiser etc)
-    * Notiication Alerts when events match your search criteria
+    * Notification Alerts when events match your search criteria
   
   2. Easy Registration and Payment
-    * Fast One-Klick Registration
+    * Fast one-klick Registration
     * Overview of upcoming events the user is registered for
     * Easy Payment for paid events
   
